@@ -27,5 +27,5 @@ This repo is part of my **daily/weekly learning habit** as I:
 
 ---
 
-## 🗂️ Project Structure (Example)
+## 🗂️ Project Structure
 
